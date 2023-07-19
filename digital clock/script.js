@@ -9,7 +9,6 @@ window.onload = () => {
     hours = hours < 10 ? "0" + hours : hours;
     minutes = minutes < 10 ? "0" + minutes : minutes;
     seconds = seconds < 10 ? "0" + seconds : seconds;
-    document.getElementById("todaysDate").innerHTML=date
     document.getElementById("hoursTime").innerHTML=hours
     document.getElementById("minutesTime").innerHTML=minutes
     document.getElementById("secondsTime").innerHTML=seconds
