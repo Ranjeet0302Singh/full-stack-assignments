@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin: 4rem 10rem;
+    text-align:center;
+}
+.intro{
+    margin-top: 2rem;
+    text-align: left;
+}
+.intro-heading{
+    margin-bottom: 1rem;
+}
+.education{
+    margin-top: 2rem;
+    text-align: left;
+}
+.education-heading{
+    margin-bottom: 1rem;
+}
+.education-10th{
+    margin: 0.5rem;
+}
+
+.education-12th{
+    margin: 0.5rem;
+}
+.projects{
+    margin-top: 2rem;
+    text-align: left;
+}
+.project-heading{
+    margin-bottom: 1rem;
+}
+.project-1{
+    margin: 0.5rem;
+}
+
+.project-2{
+    margin: 0.5rem;
+}
+.skills{
+    margin-top: 2rem;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.skills li{
+    margin: 0.5rem;
+}
